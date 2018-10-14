@@ -11,17 +11,11 @@
 
 ## Android
 
-## Java
-
-## Git
-
 ## HTTP、TCP/IP
+- [微信技术分享：微信的海量IM聊天消息序列号生成实践（算法原理篇）](https://zhuanlan.zhihu.com/p/46404167)
+- [微信自用高性能通用key-value组件MMKV已开源！](https://zhuanlan.zhihu.com/p/45143640)
+- [迈向高阶：优秀Android程序员必知必会的网络基础](https://zhuanlan.zhihu.com/p/44708410)
 
-## Python
-
-## Algorithm
-
-## Other
 
 
 
