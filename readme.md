@@ -15,7 +15,7 @@
 1. [微信技术分享：微信的海量IM聊天消息序列号生成实践（算法原理篇）](https://zhuanlan.zhihu.com/p/46404167)(2018/10/14)
 2. [微信自用高性能通用key-value组件MMKV已开源！](https://zhuanlan.zhihu.com/p/45143640)(2018/10/14)
 
-## OPEN-SOURCE FRAMENWORK
+## OPEN-SOURCE FRAMEWORK
 
 1. [微信自用高性能通用key-value组件MMKV已开源！](https://zhuanlan.zhihu.com/p/45143640)(2018/10/14)
 
